@@ -23,7 +23,7 @@ The model calculates:
 The analysis demonstrates that how recovery efficiency varies depending on the reservoir energy mechanism.
 
 ### Recoverable Oil Comparison
-
+![Volume of Recovered Oil](images/Volume_of_recovered_oil.png)
 
 ## Methodologies
 - Python.
